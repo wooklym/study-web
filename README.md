@@ -4,30 +4,39 @@
 
 시작합니다!
 
-## 순서
-
-- [웹? 그게 뭐지?](#웹-그게-뭐지)
-- [필요 프로그램 설치 및 실행](#필요-프로그램-설치-및-실행)
-- [HTML](#html)
- - [What is HTML?](#what-is-html)
- - [Heading &lt;h&gt;](#heading-h)
- - [Paragraph &lt;p&gt;](#paragraph-p)
- - [Link &lt;a&gt;](#link-a)
-
- 
-## 웹? 그게 뭐지?
-
-## 필요 프로그램 설치 및 실행
-
-## HTML
-
-### What is HTML?
-
-> HTML is a __markup language__ for describing __web documents__ (web pages).
-- HTML stands for __Hyper Text Markup Language__
-- A __markup language__ is a set of markup tags
-- __HTML documents__ are described by __HTML tags__
-- Each __HTML tag__ describes different document content
 
 
-### Heading &lt;h&gt;
+# 목록
+
+1. 웹? 그게 뭐지?
+
+2. 프로그램 설치 및 사용법
+    - Slack
+    - Chrome
+    - Sublime Text
+    - Git
+    - Source Tree
+    - Heroku
+
+3. 웹페이지를 만들어보자!
+    - HTML &amp; CSS, 뭘까?
+    - HTML
+        - HTML 기본 용어 이해하기
+            - Elements
+            - Tags
+            - Attributes
+        - HTML 문서 구조 만들어보기
+        - 실습
+    - CSS
+        - CSS 기본 용어 이해하기
+            - Selectors
+            - Properties
+            - Values
+        - Selectors를 사용해보자
+            - Type Selectors
+            - Class Selectors
+            - ID Selectors
+            - Additional Selectors
+        - CSS 불러오기
+        - 실습
+    - Summary
