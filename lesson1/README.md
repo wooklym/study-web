@@ -1,4 +1,4 @@
-# First Week
+# Lesson 1
 
 ## 웹? 그게 뭐지?
 
