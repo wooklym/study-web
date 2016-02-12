@@ -2,6 +2,8 @@
 
 ## 웹? 그게 뭐지?
 
+인터넷 ∋ 웹
+
 ## 웹 서비스를 만드는 과정
 - 구상
 - 기획
@@ -11,13 +13,13 @@
 - 배포
 
 ## 프로그램 설치 및 사용법
-- Slack
-- Chrome
-- Sublime Text
-- Git
-- Source Tree
-- Gitlab
-- Heroku
+- [Slack](https://slack.com)
+- [Chrome](https://www.google.co.kr/chrome/browser/desktop/)
+- [Sublime Text](https://www.sublimetext.com)
+- [Git](https://git-scm.com)
+- [Source Tree](https://www.sourcetreeapp.com)
+- [Gitlab](https://about.gitlab.com)
+- [Heroku](https://www.heroku.com/)
 
 ## Client &amp; Server 개념
 
