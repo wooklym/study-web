@@ -6,17 +6,19 @@
 
 Let's start [Lesson 1](https://gitlab.com/tech_bridge/web/tree/master/lesson1)
 
+수업에서 했던 내용에 대한 보충은 [Wiki](https://gitlab.com/tech_bridge/web/wikis/home)에서 찾아보세요!
+
 
 # Table of Contents
 
 ## [Lesson 1](https://gitlab.com/tech_bridge/web/tree/master/lesson1)
 
-- [웹? 그게 뭐지?](https://gitlab.com/tech_bridge/web/tree/master/lesson1#웹-그게-뭐지)
-- [웹 서비스를 만드는 과정](https://gitlab.com/tech_bridge/web/tree/master/lesson1#웹-서비스를-만드는-과정)
-- [프로그램 설치 및 사용법](https://gitlab.com/tech_bridge/web/tree/master/lesson1#프로그램-설치-및-사용법)
-- [Client &amp; Server 개념](https://gitlab.com/tech_bridge/web/tree/master/lesson1#client-server-개념)
-- [웹 서비스 만들고 배포해보기](https://gitlab.com/tech_bridge/web/tree/master/lesson1#웹-서비스-만들고-배포해보기)
-- [숙제](https://gitlab.com/tech_bridge/web/tree/master/lesson1#숙제)
+- 웹? 그게 뭐지?
+- 웹 서비스를 만드는 과정
+- 프로그램 설치 및 사용법
+- Client &amp; Server 개념
+- 웹 서비스 만들고 배포해보기
+- 숙제
 
 
 ## [Lesson 2](https://gitlab.com/tech_bridge/web/tree/master/lesson2)
