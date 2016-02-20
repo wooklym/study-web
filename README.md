@@ -6,6 +6,10 @@
 
 Let's start [Lesson 1](https://gitlab.com/tech_bridge/web/tree/master/lesson1)
 
+---
+
+수업에서 했던 내용에 대한 보충은 [Wiki](web/wikis/home)에서 찾아보세요!
+
 
 # Table of Contents
 
