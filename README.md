@@ -36,7 +36,11 @@ Let's start [Lesson 1](https://gitlab.com/tech_bridge/web/tree/master/lesson1)
 ## [Lesson 3](https://gitlab.com/tech_bridge/web/tree/master/lesson3)
 
 - Basic CSS
-- Color
-- Lengths
+- 스타일링
+- 박스 모델
+- 포지셔닝
+- 상속
+- 캐스케이딩
 - 주석 달기
 - 숙제
+
