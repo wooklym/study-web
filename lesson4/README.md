@@ -28,7 +28,6 @@
 - etc
 
 ## 숙제
-- About Me 페이지를 오늘 배운 CSS와 CSS Framework (maybe Bootstrap) 사용해서 꾸미기
-- 만들고 싶은 서비스 디자인 해오기.
 
-
+- [Codecademy](https://www.codecademy.com/learn) About You 코스 해오기
+- 만들고 싶은 서비스 기획하기
