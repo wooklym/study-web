@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<title>Lesosn 5</title>
+
+	<!-- 합쳐지고 최소화된 최신 CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+
+	<!-- 부가적인 테마 -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap-theme.min.css">
+
+	<!-- 합쳐지고 최소화된 최신 자바스크립트 -->
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+
+	<style>
+		#con .rest{
+			height: 100px;
+			background-color: red;
+		}
+		#hover {
+			height: 100px;
+			background-color: green;
+		}
+
+		#hover:hover {
+			background-color: #DAD;
+			cursor: help;
+			border-radius: 20px;
+		}
+	</style>
+</head>
+<body>
+
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-sm-12">
+				<h1 class="text-capitalize" style="text-align: center;">Lesson 5: let's start <small>Bootstrap</small> </h1>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-sm-12">
+				<blockquote class="blockquote-reverse">
+					<p>상식은 18세 까지 배우는 편견의 집합체이다.</p>
+					<footer>아인슈타인</footer>
+				</blockquote>
+					<p>상식은 중요하지 않다.</p>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-sm-12">
+				<ul class="list-unstyled list-inline">
+					<li>menu1</li>
+					<li>menu2</li>
+					<li>menu3</li>
+				</ul>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-sm-12">
+				<table class="table table-striped">
+					<tr>
+						<td>1</td>
+						<td>2</td>
+						<td class="success">3</td>
+					</tr>
+					<tr>
+						<td>4</td>
+						<td>5</td>
+						<td>6</td>
+					</tr>
+					<tr class="danger">
+						<td>7</td>
+						<td>8</td>
+						<td>9</td>
+					</tr>
+				</table>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-sm-12">
+
+				<form class="">
+				  <div class="form-group">
+				  	<label for="textarea">Textarea</label>
+				  	<input style="height: 200px;" type="textarea" class="form-control">
+				  </div>
+				  <div class="form-group">
+				  	<label for="explainSelect">셀렉트 박스</label>
+				  	<select name="" id="" class="form-control">
+				  		<option value="1">1</option>
+				  		<option value="1">2</option>
+				  		<option value="1">3</option>
+				  		<option value="1">4</option>
+				  	</select>
+				  </div>
+				  <div class="form-group">
+				    <label for="exampleInputEmail1">이메일 주소</label>
+				    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="이메일을 입력하세요">
+				  </div>
+				  <div class="form-group">
+				    <label for="exampleInputPassword1">암호</label>
+				    <input type="password" class="form-control" id="exampleInputPassword1" placeholder="암호">
+				  </div>
+				  <div class="form-group">
+				    <label for="exampleInputFile">파일 업로드</label>
+				    <input type="file" id="exampleInputFile">
+				    <p class="help-block">여기에 블록레벨 도움말 예제</p>
+				  </div>
+				  <div class="checkbox">
+				    <label>
+				      <input type="checkbox"> 입력을 기억합니다
+				    </label>
+				  </div>
+				  <button type="submit" class="btn btn-default">제출</button>
+				</form>
+
+			</div>
+		</div>
+
+
+
+		<div class="row" id="con">
+			<div class="col-sm-4" id="hover">
+				
+			</div>
+			<div class="col-sm-4 rest">
+				
+			</div>
+			<div class="col-sm-4 rest">
+				
+			</div>
+		</div>
+	</div>
+	
+</body>
+</html>
