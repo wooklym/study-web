@@ -55,3 +55,10 @@ Let's start [Lesson 1](https://gitlab.com/tech_bridge/web/tree/master/lesson1)
 - Advanced CSS
 - Bootstrap
 - 숙제
+
+## [Lesson 6](https://gitlab.com/tech_bridge/web/tree/master/lesson6)
+
+- Bootstrap
+- Come Up with Your Own Idea
+- Design Your Own Web Site
+- 숙제
