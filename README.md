@@ -62,3 +62,10 @@ Let's start [Lesson 1](https://gitlab.com/tech_bridge/web/tree/master/lesson1)
 - Come Up with Your Own Idea
 - Design Your Own Web Site
 - 숙제
+
+## [Lesson 7](https://gitlab.com/tech_bridge/web/tree/master/lesson7)
+
+- 웹 페이지를 동적으로 만들어주는 Javascript
+- Javascript 기본 문법
+- Javascript 중요한 문법
+- 숙제
