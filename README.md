@@ -69,3 +69,9 @@ Let's start [Lesson 1](https://gitlab.com/tech_bridge/web/tree/master/lesson1)
 - Javascript 기본 문법
 - Javascript 중요한 문법
 - 숙제
+
+## [Lesson 8](https://gitlab.com/tech_bridge/web/tree/master/lesson8)
+
+- Javascript 중요한 문법
+- Javascript 활용한 간단한 게임만들기
+- 숙제
