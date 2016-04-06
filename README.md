@@ -75,3 +75,9 @@ Let's start [Lesson 1](https://gitlab.com/tech_bridge/web/tree/master/lesson1)
 - Javascript 중요한 문법
 - Javascript 활용한 간단한 게임만들기
 - 숙제
+
+## [Lesson 9](https://gitlab.com/tech_bridge/web/tree/master/lesson9)
+
+- 내 서비스 구상하고 기획하기
+- 내 서비스 디자인하기
+- 숙제
