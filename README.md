@@ -93,3 +93,8 @@ Let's start [Lesson 1](https://gitlab.com/tech_bridge/web/tree/master/lesson1)
 - 마크업 및 Javascript 기능 구현 완성하기
 - 애니메이션, 이벤트 등 고급 기능 추가하기
 - 숙제
+
+## [Lesson 12](https://gitlab.com/tech_bridge/web/tree/master/lesson12)
+
+- 완성된 서비스 돌아보기
+- 앞으로 배워야 할 것
